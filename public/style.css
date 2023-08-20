@@ -472,7 +472,7 @@ a {
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-end;
-    background: linear-gradient(0deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.10) 100%), url('../src/img/slider1.png'), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.10) 100%), url('img/slider1.png'), lightgray 50% / cover no-repeat;
 }
 
 .hero-leftSide-content {
@@ -590,7 +590,7 @@ a {
     width: 688px;
     height: 720px;
     flex-shrink: 0;
-    background: url('../src/img/garden.png'), lightgray -212.132px 0px / 157.015% 100% no-repeat;
+    background: url('img/garden.png'), lightgray -212.132px 0px / 157.015% 100% no-repeat;
 }
 
 #o-firmie-rightSide-content {
