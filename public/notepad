@@ -1,0 +1,15 @@
+<div>
+                    <div style="margin: 48px 40px;">
+                        <div style="display: flex; justify-content: flex-start">
+                            <div style="width: 40px; height: 40px; flex-shrink: 0; background: url('../src/img/pencil.png'), lightgray 50% / cover no-repeat;>
+                            t
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+
+                    </div>
+                    <div>
+
+                    </div>
+                </div>
